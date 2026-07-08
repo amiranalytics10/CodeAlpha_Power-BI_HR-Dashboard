@@ -23,6 +23,7 @@ Attrition Rate
 Average Monthly Income
 Average Job Satisfaction
 Department, Gender, Job Role, Education, and Marital Status analysis
+
 **2. Attrition Dashboard**
 Employee Attrition Analysis
 Attrition by Department
@@ -32,6 +33,7 @@ Attrition by Income Group
 Attrition by Overtime
 Attrition by Business Travel
 Attrition by Years at Company
+
 **3. Employee Satisfaction & Performance Dashboard**
 Job Satisfaction Analysis
 Environment Satisfaction
@@ -41,6 +43,7 @@ Job Involvement
 Satisfaction by Department and Job Role
 Performance by Department
 Satisfaction vs Attrition Analysis
+
 **4. Recruitment Analytics (Planned)**
 Applications
 Interviews
@@ -48,12 +51,14 @@ Offers
 Hires
 Recruitment Funnel
 Monthly Hiring Trends
+
 **5. Predictive Analytics (Planned)**
 Hiring Forecast
 Employee Growth Forecast
 Attrition Trend Forecast
 
 **Tools & Technologies**
+
 Power BI Desktop
 Power Query
 DAX
@@ -64,6 +69,7 @@ Data Modeling
 This project uses the HR Analytics Employee Attrition & Performance dataset containing employee demographics, compensation, satisfaction, performance, and attrition information.
 
 **Skills Demonstrated**
+
 Data Cleaning with Power Query
 Data Modeling
 DAX Measures
