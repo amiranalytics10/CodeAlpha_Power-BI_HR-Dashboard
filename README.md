@@ -1,9 +1,11 @@
 # CodeAlpha_Power-BI_HR-Dashboard
 
 **HR Analytics Dashboard | Power BI**
+
 An interactive HR Analytics Dashboard built in Power BI to help HR teams analyze workforce data and support data-driven decision-making. This project focuses on employee demographics, attrition analysis, employee satisfaction, performance insights, recruitment analytics, and workforce forecasting.
 
 **Project Objectives**
+
 Analyze employee demographics and workforce distribution.
 Monitor employee turnover and attrition trends.
 Evaluate employee satisfaction and performance metrics.
@@ -12,6 +14,7 @@ Forecast future hiring needs using Power BI analytics.
 Provide an interactive dashboard for HR decision-making.
 
 **Dashboard Pages**
+
 **1. Executive HR Dashboard**
 Total Employees
 Current Employees
